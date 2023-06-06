@@ -1,4 +1,8 @@
 #!/usr/bin/node
 
-const languages = ('C is fun \n Python is cool \n JavaScript is amazing \n');
-console.log(languages);
+const C = ('C is fun')
+console.log(C);
+const Python = ('Python is cool')
+console.log(Python);
+const JS = ('JavaScript is amazing');
+    console.log(JS);
