@@ -1,6 +1,6 @@
-#!/usr/nin/node
+#!/usr/bin/node
 
-const {argv} = process;
+const { argv } = process;
 
 const argvLen = argv.length;
 
