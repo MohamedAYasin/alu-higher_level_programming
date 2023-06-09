@@ -1,7 +1,5 @@
 #!/usr/bin/node
 
-#!/usr/bin/node
-
 const { argv } = process;
 
 const numArg = Number(argv[2]);
